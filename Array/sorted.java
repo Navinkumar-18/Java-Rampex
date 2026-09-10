@@ -1,4 +1,4 @@
-
+package Array;
 import java.util.*;
 public class sorted{
     public static void main(String[] args){

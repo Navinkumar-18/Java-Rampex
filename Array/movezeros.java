@@ -1,3 +1,4 @@
+package Array;
 import java.util.*;
 public class movezeros{
     public static void main(String[] args){
@@ -23,5 +24,6 @@ public class movezeros{
         for(int i=0;i<n;i++){
             System.out.print(a[i]+" ");
         }
+        sc.close();
     }
 }

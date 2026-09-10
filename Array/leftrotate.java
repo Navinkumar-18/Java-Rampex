@@ -19,6 +19,6 @@ public class leftrotate {
             System.out.print(a[i]+" ");
         }
        
-
+sc.close();
     }
 }

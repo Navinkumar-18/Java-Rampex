@@ -1,3 +1,4 @@
+package Array;
 import java.util.*;
 public class evenodd{
     public static void main(String[] args)
@@ -24,6 +25,6 @@ public class evenodd{
             System.out.print(a[i]+" ");
 
         }
-
+sc.close();
     }
 }
