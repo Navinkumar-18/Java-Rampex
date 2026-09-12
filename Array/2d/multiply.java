@@ -1,5 +1,5 @@
 import java.util.*;
-public class mul {
+public class multiply {
     public static void main(String[] args) {
         Scanner sc=new Scanner(System.in);
         System.out.println("Enter size of first matrix:");
